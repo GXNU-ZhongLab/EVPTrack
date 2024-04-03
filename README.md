@@ -27,10 +27,10 @@ EVPTrack is a simple and high performance tracker. It achieves SOTA performance 
 
 ### :star2: Strong Performance
 
-| Tracker     | GOT-10K (AO) | LaSOT (AUC) | TrackingNet (AUC) | LaSOT_ext (AUC) | UAV123 (AUC) | TNL2K (AUC) |
-|:-----------:|:------------:|:-----------:|:-----------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| EVPTrack-384 | 76.6         | 72.7        | 84.4              | 53.7          | 70.9          | 59.1          |
-| EVPTrack-224 | 73.3         | 70.4        | 83.5              | 48.7          | 70.2          | 57.5          | 
+| Tracker      | GOT-10K (AO) | LaSOT (AUC) | TrackingNet (AUC) | LaSOT_ext (AUC) | UAV123 (AUC) | TNL2K (AUC) |
+|:------------:|:------------:|:-----------:|:-----------------:|:---------------:|:------------:|:-----------:|
+| EVPTrack-384 | 76.6         | 72.7        | 84.4              | 53.7            | 70.9         | 59.1        |
+| EVPTrack-224 | 73.3         | 70.4        | 83.5              | 48.7            | 70.2         | 57.5        | 
  
 
 
